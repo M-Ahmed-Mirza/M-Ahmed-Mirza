@@ -57,9 +57,3 @@ I take on select freelance projects in:
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact.ahmed.ai@gmail.com)
 
 ---
-
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=M-Ahmed-Mirza&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub Stats" />
-</p>
