@@ -9,22 +9,28 @@ I'm an AI Engineer at **OptimusFox**, where I design and build AI-powered soluti
 ### 🔧 Tech Stack
 
 **AI / ML**  
-Python · LangChain · LlamaIndex · OpenAI API · HuggingFace Transformers · CrewAI · AutoGen · RAG Pipelines · Vector Databases (ChromaDB, Pinecone, FAISS)
+Python · LangChain · LlamaIndex · OpenAI API · HuggingFace Transformers · RAG Pipelines · Vector Databases (ChromaDB, Pinecone, FAISS)
 
 **Data & Analytics**  
-SQL · PostgreSQL · MongoDB · Pandas · NumPy · Power BI · ETL Pipelines
+SQL · SQL Server · PostgreSQL · MongoDB · Pandas · NumPy · Power BI · ETL Pipelines
 
 **Backend & Deployment**  
 FastAPI · Flask · Docker · Streamlit · Gradio · REST APIs
 
 **Cloud & Tools**  
-AWS · Git · GitHub · VS Code · Jupyter · Linux
+Azure · Git · GitHub · VS Code · Jupyter · Linux
 
 ---
 
 ### 🚀 Featured Projects
 
-> *Coming soon — currently building and documenting new projects. Stay tuned.*
+#### [🏥 MedLearn AI](https://github.com/M-Ahmed-Mirza/medlearn-ai)
+A **six-agent system** for healthcare workforce certification management. Features ethical refusal logic, inter-agent escalation, and self-correction through a Critic agent. Built with GPT-4o, Microsoft Agent Framework, and Streamlit.  
+`Multi-Agent System` `GPT-4o` `Python` `Pydantic` `Streamlit`
+
+#### [🛒 E-Commerce InsightPro](https://github.com/M-Ahmed-Mirza/ecommerce_insightpro)
+End-to-end e-commerce analytics platform with a **Python ETL pipeline** from SQL Server to Power BI. Segments customers using **RFM analysis** and serves interactive dashboards through a Flask web app.  
+`ETL` `RFM Analysis` `Power BI` `Flask` `SQL Server`
 
 ---
 
