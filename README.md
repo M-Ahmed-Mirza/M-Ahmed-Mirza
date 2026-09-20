@@ -1,26 +1,59 @@
 # Hi, I'm Ahmed 👋
 
-## AI Engineer based in Lahore, Pakistan
+### AI Engineer | Building Intelligent Systems with RAG, AI Agents & LLMs
 
-I build intelligent systems using NLP, LLMs, and machine learning.
-Currently working as an AI Engineer at [Company Name] where I
-[brief one-liner about what you do].
+I'm an AI Engineer at **OptimusFox**, where I design and build AI-powered solutions — from Retrieval-Augmented Generation (RAG) pipelines and autonomous AI Agents to business intelligence dashboards. I'm passionate about turning complex problems into production-ready AI systems.
 
-### 🔧 What I Work With
-- **Languages:** Python, SQL
-- **AI/ML:** PyTorch, TensorFlow, Scikit-learn, HuggingFace
-- **LLMs:** LangChain, LlamaIndex, OpenAI API, RAG pipelines
-- **Data:** Pandas, NumPy, PostgreSQL, MongoDB
-- **Tools:** Docker, FastAPI, Streamlit, Git
-- **Cloud:** AWS / GCP / Azure
+---
+
+### 🔧 Tech Stack
+
+**AI / ML**  
+Python · LangChain · LlamaIndex · OpenAI API · HuggingFace Transformers · CrewAI · AutoGen · RAG Pipelines · Vector Databases (ChromaDB, Pinecone, FAISS)
+
+**Data & Analytics**  
+SQL · PostgreSQL · MongoDB · Pandas · NumPy · Power BI · ETL Pipelines
+
+**Backend & Deployment**  
+FastAPI · Flask · Docker · Streamlit · Gradio · REST APIs
+
+**Cloud & Tools**  
+AWS · Git · GitHub · VS Code · Jupyter · Linux
+
+---
 
 ### 🚀 Featured Projects
-(You'll fill this in after Phase 3)
 
-### 📫 How to Reach Me
-- LinkedIn: [your link]
-- Email: [your freelance email]
+> *Coming soon — currently building and documenting new projects. Stay tuned.*
+
+---
+
+### 📊 What I Do
+
+- **RAG Systems** — Build document Q&A pipelines that let users chat with their data using LLMs and vector search  
+- **AI Agents** — Design autonomous agents that reason, plan, and execute multi-step tasks  
+- **BI & Analytics** — Create interactive dashboards and reports in Power BI to drive business decisions  
+- **End-to-End ML** — Train, deploy, and serve ML models as production APIs  
+
+---
 
 ### 💼 Open to Freelance Work
-I take on select projects in NLP, LLM integration, and ML system
-design. Reach out if you need help building AI-powered solutions.
+
+I take on select freelance projects in:
+- RAG pipeline design and development  
+- AI Agent systems and LLM integration  
+- Custom AI/ML solutions for startups and businesses  
+- Power BI dashboards and data analytics  
+
+**Let's connect →**
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-ahmed-mirza-4282a726b)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact.ahmed.ai@gmail.com)
+
+---
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=M-Ahmed-Mirza&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub Stats" />
+</p>
