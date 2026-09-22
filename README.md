@@ -33,6 +33,11 @@ End-to-end e-commerce analytics platform with a **Python ETL pipeline** from SQL
 `ETL` `RFM Analysis` `Power BI` `Flask` `SQL Server`
 
 ---
+#### [📄 DocChat AI](https://github.com/M-Ahmed-Mirza/docchat-ai)
+**RAG-powered document Q&A system** — upload PDFs and chat with your documents. Built with LangChain, OpenAI, ChromaDB, and Streamlit. Features configurable chunking, multi-PDF support, and source citations.
+`RAG` `LangChain` `ChromaDB` `OpenAI` `Streamlit`
+
+---
 
 ### 📊 What I Do
 
