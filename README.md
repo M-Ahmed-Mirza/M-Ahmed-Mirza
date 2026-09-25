@@ -6,19 +6,15 @@ I'm an AI Engineer at **OptimusFox**, where I design and build AI-powered soluti
 
 ---
 
-### 🔧 Tech Stack
+## 🛠️ Tech Stack
 
-**AI / ML**  
-Python · LangChain · LlamaIndex · OpenAI API · HuggingFace Transformers · RAG Pipelines · Vector Databases (ChromaDB, Pinecone, FAISS)
+**AI / LLM:** Python · LangChain · OpenAI API (GPT-4o) · Microsoft Agent Framework · Pydantic · RAG Pipelines · ChromaDB
 
-**Data & Analytics**  
-SQL · SQL Server · PostgreSQL · MongoDB · Pandas · NumPy · Power BI · ETL Pipelines
+**Data & Analytics:** SQL · SQL Server · Pandas · NumPy · Power BI · ETL Pipelines
 
-**Backend & Deployment**  
-FastAPI · Flask · Docker · Streamlit · Gradio · REST APIs
+**Backend & Apps:** Flask · Streamlit · REST APIs
 
-**Cloud & Tools**  
-Azure · Git · GitHub · VS Code · Jupyter · Linux
+**Tools:** Git · GitHub · VS Code · Jupyter
 
 ---
 
@@ -50,22 +46,6 @@ End-to-end e-commerce analytics platform with a **Python ETL pipeline** from SQL
 <p align="center">
   <img width="600" alt="E-Commerce InsightPro" src="https://github.com/user-attachments/assets/4b474d7d-3902-4138-9c12-1be5d018cd27" />
 </p>
-
----
-
-## 🛠️ Tech Stack
-
-**AI / LLM**
-Python · LangChain · OpenAI API (GPT-4o) · Microsoft Agent Framework · Pydantic · RAG Pipelines · ChromaDB
-
-**Data & Analytics**
-SQL · SQL Server · Pandas · NumPy · Power BI · ETL Pipelines
-
-**Backend & Apps**
-Flask · Streamlit · REST APIs
-
-**Tools**
-Git · GitHub · VS Code · Jupyter
 
 ---
 
