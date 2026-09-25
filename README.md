@@ -27,34 +27,55 @@ Azure · Git · GitHub · VS Code · Jupyter · Linux
 #### [🏥 MedLearn AI](https://github.com/M-Ahmed-Mirza/medlearn-ai)
 A **six-agent system** for healthcare workforce certification management. Features ethical refusal logic, inter-agent escalation, and self-correction through a Critic agent. Built with GPT-4o, Microsoft Agent Framework, and Streamlit.  
 `Multi-Agent System` `GPT-4o` `Python` `Pydantic` `Streamlit`
-
-#### [🛒 E-Commerce InsightPro](https://github.com/M-Ahmed-Mirza/ecommerce_insightpro)
-End-to-end e-commerce analytics platform with a **Python ETL pipeline** from SQL Server to Power BI. Segments customers using **RFM analysis** and serves interactive dashboards through a Flask web app.  
-`ETL` `RFM Analysis` `Power BI` `Flask` `SQL Server`
+<img width="1356" height="654" alt="SS" src="https://github.com/user-attachments/assets/5f28ec92-d218-4f4e-bc14-0def3c569d48" />
 
 ---
 #### [📄 DocChat AI](https://github.com/M-Ahmed-Mirza/docchat-ai)
 **RAG-powered document Q&A system** — upload PDFs and chat with your documents. Built with LangChain, OpenAI, ChromaDB, and Streamlit. Features configurable chunking, multi-PDF support, and source citations.
 `RAG` `LangChain` `ChromaDB` `OpenAI` `Streamlit`
+<img width="1358" height="1280" alt="screencapture-localhost-8501-2026-09-22-15_32_06" src="https://github.com/user-attachments/assets/382a6b13-344e-4a9b-9287-319f0e7387c2" />
 
 ---
 
-### 📊 What I Do
-
-- **RAG Systems** — Build document Q&A pipelines that let users chat with their data using LLMs and vector search  
-- **AI Agents** — Design autonomous agents that reason, plan, and execute multi-step tasks  
-- **BI & Analytics** — Create interactive dashboards and reports in Power BI to drive business decisions  
-- **End-to-End ML** — Train, deploy, and serve ML models as production APIs  
+#### [🛒 E-Commerce InsightPro](https://github.com/M-Ahmed-Mirza/ecommerce_insightpro)
+End-to-end e-commerce analytics platform with a **Python ETL pipeline** from SQL Server to Power BI. Segments customers using **RFM analysis** and serves interactive dashboards through a Flask web app.  
+`ETL` `RFM Analysis` `Power BI` `Flask` `SQL Server`
+<img width="602" height="477" alt="RFM" src="https://github.com/user-attachments/assets/4b474d7d-3902-4138-9c12-1be5d018cd27" />
+<img width="602" height="349" alt="RFManalysis" src="https://github.com/user-attachments/assets/f5d24c40-944f-4ed3-a9eb-193957159211" />
 
 ---
 
-### 💼 Open to Freelance Work
+## 🛠️ Tech Stack
+
+**AI / LLM**
+Python · LangChain · OpenAI API (GPT-4o) · Microsoft Agent Framework · Pydantic · RAG Pipelines · ChromaDB
+
+**Data & Analytics**
+SQL · SQL Server · Pandas · NumPy · Power BI · ETL Pipelines
+
+**Backend & Apps**
+Flask · Streamlit · REST APIs
+
+**Tools**
+Git · GitHub · VS Code · Jupyter
+
+---
+
+## 📊 What I Do
+
+- **RAG Systems** — Build document Q&A pipelines that answer from your data, with source citations
+- **AI Agents** — Design multi-agent systems that reason, plan, and execute multi-step tasks with guardrails
+- **BI & Analytics** — Build ETL pipelines and interactive Power BI dashboards that drive business decisions
+
+---
+
+## 💼 Open to Freelance Work
 
 I take on select freelance projects in:
-- RAG pipeline design and development  
-- AI Agent systems and LLM integration  
-- Custom AI/ML solutions for startups and businesses  
-- Power BI dashboards and data analytics  
+
+- Document chatbots (RAG) with source citations
+- AI agents and LLM integration for business workflows
+- Power BI dashboards and ETL pipelines
 
 **Let's connect →**
 
